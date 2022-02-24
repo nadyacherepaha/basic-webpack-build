@@ -1,0 +1,9 @@
+{
+  "name": "basic-webpack-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nadyacherepaha/basic-webpack-build.git",
+  "author": "nadyacherepaha <nad.cherepaha@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
